@@ -9,7 +9,6 @@ I'm Guilherme Hosoda, :brazil: brazilian electrical engineer and junior Backend 
 ## Languages and Tools
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GHosoda)](https://github.com/GHosoda/github-readme-stats)
 
-<!-- ![Overleaf Badge](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white) -->
 ![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Grafana Badge](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
